@@ -140,7 +140,7 @@
   "AUTO_REACT" :{
   "description" : "AUTO REACT SEND [ true / false ]",
   "requred" : true,
-  "value" :"true"
+  "value" :"false"
   },
 
 "ANTI_BADWORD" :{
